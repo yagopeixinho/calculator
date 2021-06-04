@@ -28,9 +28,8 @@ Se você gostou do projeto você tem algumas opções...
  - 📬 Email me if you need to: yagopeixinho03@gmail.com
 <br>
 <br>
-
-## Notas de repositório
-
+## Notas do projeto
+Sinta-se livre para fazer as alterações que desejar, peço também que me comunique se encontrar algum erro ou tiver alguma sugestão ou proposta. 
 
 ## Como baixar o projeto?
 ```bash
@@ -47,5 +46,23 @@ Se você gostou do projeto você tem algumas opções...
   # Iniciar o projeto
   $ yarn start
 
-
 ```
+```bash
+  Uma outra opção é simplesmente abrir com o Git Hub Desktop.
+```
+
+## Collaborator
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/yagopeixinho">
+                <img src="https://avatars.githubusercontent.com/u/81770553?v=4" width="150px;" alt="Imagem de Yago Peixinho">
+                <br />
+                <sub><b>Yago Peixinho</b></sub>
+            </a>
+        </td>    
+    </tr>
+</table>
+<h4 align="center">
+  Made by <a href="https://www.instagram.com/yagopeixinho/?hl=pt-br/" target="_blank"> Yago Peixinho </a>
+</h4>
