@@ -1,4 +1,6 @@
-# simple-calculator
-A basic calculator developed in JavaScript and HTML for training purposes. JavaScript and a ready-made calculator template were also used.
+# Simple Calculator
 
-<h1>
+<img src="videos/calculadora-gif.gif">
+
+## Sobre 
+Esse projeto tem como funcionalidade o treinamento em JavaScript. A calculadora foi programada com 100% de JavaScript
