@@ -4,52 +4,51 @@
   <img src="videos/calculadora-gif.gif" width="70%">
 </p> 
 
-## Sobre 
-Esse projeto tem como funcionalidade o treinamento em JavaScript. Uma das melhores formas de aprender uma nova linguagem de programação, como qualquer outra coisa em sua vida, você precisa praticar. Esse projeto é uma forma prática de adquirir conhecimento em JavaScript.
-<br>
-<br>
-
-## Algumas observações
-A calculadora é uma calculadora simples mas que tem o poder de resolver cálculos pequenos, como subtração, adição, divisão... 
-É importante ressaltar que a interace visual desse conteudo não foi desenvolvido por mim. A interface visual foi reaproveitada a partir de uma aula tida em um curso de [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/) na plataforma de cursos online [Udemy](https://www.udemy.com).
-<br>
+## About this project 
+This project features JavaScript training. One of the best ways to learn a new programming language, like anything else in your life, you need to practice. This project is a practical way to acquire in JavaScript.
 <br>
 
-## Por que esse projeto existe?
-Esse projeto surgiu como uma forma de exercitar de forma prática o JavaScript, sendo o primeiro projeto que eu fiz em JavaScript. Se você está iniciando nessa linguagem de programação é um projeto que eu super recomendo, pois além de ensinar funções básicas mas úteis do JavaScript, você vai ter uma visão mais ampla da programação em JavaScript. Caso você não tenha conseguido fazer de forma correta, tente novamente até que consiga!
-<br>
+## Some observations about this project
+The calculator is a simple calculator but it has the power to solve small calculations like subtraction, addition, division...
+It is important to note that the visual interaction of this content was not developed by me. The visual interface was reused from a class taken in a [Full-Stack Web Development Course](https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/) on the course platform [Udemy](https://www.udemy.com)
 <br>
 
-Se você gostou do projeto você tem algumas opções...
+## Why does this project exist?
+This project came about as a way to exercise JavaScript in a practical way, being the first project I did in JavaScript. If you're just starting out in this programming language, it's a project that I highly recommend, because in addition to teaching basic but useful JavaScript functions, you'll get a broader view of JavaScript programming. If you haven't been able to do it correctly, try again until you do!
+<br>
+
+If you liked the project you have some options...
 <br>
  - 🌎 Share this repository with your friends!
  - 📷 Follow me on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br), let's be friends =)
  - ⭐ If you liked the idea, you can give it a *fork* and a star.
  - 📬 Email me if you need to: yagopeixinho03@gmail.com
-<br>
-<br>
-## Notas do projeto
-Sinta-se livre para fazer as alterações que desejar, peço também que me comunique se encontrar algum erro ou tiver alguma sugestão ou proposta. 
 
-## Como baixar o projeto?
+
+## Project Notes
+Feel free to make any changes you wish, I also ask you to let me know if you find any errors or have any suggestions or proposals.
+<br>
+
+## How to download the project?
 ```bash
 
-  # Clonar o repositório
+  # Clone the repository
   $ git clone https://github.com/yagopeixinho/simple-calculator
   
-  # Entrar no diretório
+  #Enter directory
   $ cd simples-calculator
   
-  # Instalar as dependências
+  # Install dependencies
   $ yarn install
   
-  # Iniciar o projeto
+  # Start the project
   $ yarn start
 
 ```
 ```bash
-  Uma outra opção é simplesmente abrir com o Git Hub Desktop.
+  Another option is to simply open it with Git Hub Desktop.
 ```
+<br>
 
 ## Collaborator
 <table align="center">
