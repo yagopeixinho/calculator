@@ -38,15 +38,7 @@ Feel free to make any changes you wish, I also ask you to let me know if you fin
 
   # Clone the repository
   $ git clone https://github.com/yagopeixinho/simple-calculator
-  
-  #Enter directory
-  $ cd simples-calculator
-  
-  # Install dependencies
-  $ yarn install
-  
-  # Start the project
-  $ yarn start
+
 
 ```
 ```bash
