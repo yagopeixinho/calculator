@@ -24,9 +24,8 @@ This project came about as a way to exercise JavaScript in a practical way, bein
 If you liked the project you have some options...
 <br>
  - 🌎 Share this repository with your friends!
- - 📷 Follow me on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br), let's be friends =)
  - ⭐ If you liked the idea, you can give it a *fork* and a star.
- - 📬 Email me if you need to: yagopeixinho03@gmail.com
+ - 📬 Email me if you need to: peixinhoyago@gmail.com
 
 
 ## Project Notes
@@ -58,6 +57,3 @@ Feel free to make any changes you wish, I also ask you to let me know if you fin
         </td>    
     </tr>
 </table>
-<h4 align="center">
-  Made by <a href="https://www.instagram.com/yagopeixinho/?hl=pt-br/" target="_blank"> Yago Peixinho </a>
-</h4>
